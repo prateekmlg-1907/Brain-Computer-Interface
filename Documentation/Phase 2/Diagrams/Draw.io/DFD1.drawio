@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="Onr7bmdSrjfq3ZNb4axA">
+    <mxGraphModel dx="2049" dy="-2406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-135" value="System" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="423" y="4730" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-136" value="Brain-Computer Interface" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="356" y="4852" width="244" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-137" value="Data Acquisition" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="23" y="4983" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-138" value="Model Training" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="29" y="5114" width="165" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-139" value="Speech Synthesis" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="5236" width="182" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-140" value="EEG/MEG Equipment" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="249" y="4983" width="209" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-141" value="High-Performance Computing" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="508" y="4974" width="189" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-142" value="Output" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="56" y="5358" width="111" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-143" value="User Interaction" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="334" y="5480" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-144" value="Controls" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-135" target="e1c1xiwjVlodbPBNwCO6-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-145" value="Neural Signals" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.91;entryX=0.5;entryY=0;rounded=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-136" target="e1c1xiwjVlodbPBNwCO6-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="111" y="4938" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-146" value="Processed Data" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-137" target="e1c1xiwjVlodbPBNwCO6-138">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-147" value="Trained Models" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-138" target="e1c1xiwjVlodbPBNwCO6-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-148" value="Requires" style="curved=0;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-136" target="e1c1xiwjVlodbPBNwCO6-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="4938" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-149" value="Requires" style="curved=0;startArrow=none;endArrow=block;exitX=0.71;exitY=1;entryX=0.5;entryY=0;rounded=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-136" target="e1c1xiwjVlodbPBNwCO6-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="4938" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-150" value="Audible Speech" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-139" target="e1c1xiwjVlodbPBNwCO6-142">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-151" value="Speech Output" style="curved=0;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0;entryY=0.14;rounded=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-142" target="e1c1xiwjVlodbPBNwCO6-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="111" y="5443" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1c1xiwjVlodbPBNwCO6-152" value="Feedback" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.14;entryX=0.92;entryY=1;rounded=1;fontSize=16;fontStyle=1" edge="1" parent="1" source="e1c1xiwjVlodbPBNwCO6-143" target="e1c1xiwjVlodbPBNwCO6-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="732" y="5443" />
+              <mxPoint x="732" y="4938" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
